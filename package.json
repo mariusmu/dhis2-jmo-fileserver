@@ -1,0 +1,29 @@
+{
+  "name": "dhis2-jmo-fileserver",
+  "version": "0.0.1",
+  "author": "DHIS2-JMO-Group",
+  "devDependencies": {
+    "express": "^4.14.0"
+  },
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "cors": "^2.8.1",
+    "minimist": "^1.2.0",
+    "multer": "^1.2.0",
+    "path": "^0.12.7",
+    "uuid": "^3.0.0"
+  },
+  "description": "A simple fileserver (JMO-group) for sharing files",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com/mariusmu/dhis2-jmo-fileserver"
+  },
+  "keywords": [
+    "dhis2-fileserver"
+  ],
+  "license": "MIT"
+}
