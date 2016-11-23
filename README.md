@@ -5,5 +5,6 @@ It is created to support the [github.com/mariusmu/dhis2-message-app](DHIS2-Messa
 # Licence MIT
 
 # To run
-```npm install```
-Then ```node main.js [--port p]
+1. Create a folder "static" in the root directory
+2. ```npm install```
+3. Then ```node main.js [--port p]
